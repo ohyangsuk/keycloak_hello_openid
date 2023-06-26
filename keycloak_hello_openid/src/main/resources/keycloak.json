@@ -1,0 +1,10 @@
+{
+  "realm": "HelloOpenIDRealm",
+  "auth-server-url": "http://localhost:8081/auth",
+  "ssl-required": "NONE",
+  "resource": "HelloOpenIDClient",
+  "credentials": {
+    "secret": "mMJcFkY9lngtfOmdHErokKqd1tvKgvhc"
+  },
+  "confidential-port": 0
+}
